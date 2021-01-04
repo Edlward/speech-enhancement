@@ -1,0 +1,46 @@
+https://segmentfault.com/a/1190000016433897 彻底理解链接器：三，库与可执行文件
+https://www.cnblogs.com/huaping-audio/category/154217.html 音频算法研究与应用
+https://blog.csdn.net/guaiguaihenguai/article/details/81160310 编译和链接的过程
+https://blog.csdn.net/audio_algorithm/article/list/3 音频算法相关博客
+https://zhuanlan.zhihu.com/p/46216008 彻底弄懂常见的7种中文字符编码
+
+https://www.cnblogs.com/wittxie/p/9836097.html#top makefile教程
+https://blog.csdn.net/u011370207/article/details/80353621?utm_source=blogxgwz9 Makefile中$@，$^，$<
+https://www.cnblogs.com/wjchao/p/7460375.html gcc编译过程
+https://www.runoob.com/w3cnote/gcc-parameter-detail.html gcc参数详解
+https://www.hahack.com/codes/cmake/# cmake入门实战
+https://blog.csdn.net/afei__/article/details/81201039 CMakeLists.txt 语法介绍与实例演练
+https://www.cnblogs.com/tinywan/p/7230039.html Linux 命令详解（三）./configure、make、make install 命令
+https://mubu.com/doc/t1VDCEn4O0 cmake文档
+
+https://www.cnblogs.com/goodloop/archive/2010/10/02/1841171.html arm程序设计优化
+https://blog.csdn.net/lzy340623339/article/details/9951181?utm_source=blogxgwz5 使用与运算符代替求余运算符的技巧
+https://www.cnblogs.com/wujianlundao/archive/2012/11/18/2776372.html C++程序常见的性能调优方式
+http://www.360doc.com/document/18/1008/09/55369553_792881365.shtml SSE指令集优化心得（一）
+https://cloud.tencent.com/developer/article/1545392 C语言代码优化的一些经验及小技巧（一）
+http://www.uml.org.cn/c++/200811103.asp#_Toc110958700 C代码优化方案
+https://blog.csdn.net/hemmingway/article/details/44828303 ARM Neon Intrinsics各函数介绍
+
+https://www.jianshu.com/p/889dbc684622 PyTorch 深度学习: 60分钟快速入门
+https://blog.csdn.net/qq_30815237/article/details/86700680 深入理解深度学习中的激活函数
+https://www.cnblogs.com/liuyihai/p/8448977.html 一天搞懂深度学习--李宏毅教程分享
+https://blog.csdn.net/qq_26697045/article/details/85050756 深度学习中的归一化(normalization)和正则化(regularization)
+https://www.zhihu.com/question/38102762?sort=created 深度学习中 Batch Normalization为什么效果好？
+https://blog.csdn.net/minstyrain/article/details/105468221 pytorch 从入门到精通
+https://zhuanlan.zhihu.com/p/99318332 60题PyTorch简易入门指南
+https://www.zhihu.com/column/deeplearningcc 深度学习相关记录与介绍
+
+https://blog.csdn.net/qq249356520/article/details/100582644 RNNoise原理部分（1）
+https://zhuanlan.zhihu.com/p/83175348 RNNOISE介绍
+https://www.zhihu.com/question/273665262 深度学习在语音增强方面的最新进展
+https://jmvalin.ca/demo/rnnoise/ rnnoise官网
+https://zhuanlan.zhihu.com/p/99143394 语音增强论文及相关代码整理
+https://zhuanlan.zhihu.com/p/139423710 DNN单通道语音增强
+http://web.cse.ohio-state.edu/~wang.77/index.html 汪德亮主页
+https://blog.csdn.net/audio_algorithm/article/details/79114020 语音增强国外牛人
+https://github.com/chaoyueziji/SpeechEnhancement state-of-the-art SpeechEnhancement methods
+https://www.zhihu.com/column/speechsignalprocessing 语音信号处理
+https://github.com/Ryuk17/SpeechAlgorithms 微信公众号语音算法组文章的相关代码
+https://github.com/bharathgs/Awesome-pytorch-list pytorch实现的算法
+https://blog.csdn.net/zzc15806/article/details/90376023 深度学习在音频信号处理领域中的进展
+https://blog.csdn.net/weiqiwu1986 一些语音相关算法的博客
