@@ -45,3 +45,12 @@ https://github.com/bharathgs/Awesome-pytorch-list pytorch实现的算法
 https://blog.csdn.net/zzc15806/article/details/90376023 深度学习在音频信号处理领域中的进展
 https://blog.csdn.net/weiqiwu1986 一些语音相关算法的博客
 https://github.com/smallmuou/wavutils pcm转wav,wav转pcm
+https://www.cnblogs.com/dylancao/p/7663755.html 提纲挈领webrtc之vad检测
+https://zhuanlan.zhihu.com/p/45138629 如何快速设计一个FIR滤波器（一）
+https://blog.csdn.net/book_bbyuan webrtcvad算法专栏
+https://blog.csdn.net/book_bbyuan/article/details/80725945 WebRTC VAD 中所用滤波器之分析
+https://blog.csdn.net/book_bbyuan/article/details/80366196 Filter Bank 浅谈一二
+https://blog.csdn.net/book_bbyuan/article/details/78944630 WebRTC VAD算法初探
+https://blog.csdn.net/Lucas23/article/details/84110584?utm_medium=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-3.control&depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-3.control
+WEBRTC中VAD算法及思想的数学解析
+https://blog.csdn.net/Magical_Bubble/article/details/90295814 ASR中常用的语音特征之FBank和MFCC（原理 + Python实现）
